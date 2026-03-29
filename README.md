@@ -48,5 +48,5 @@
 （tips：该怎么在其中写下你自己的话请看‘tips’文件）
 
 <dev>
-![logo](![alt text](https://github.com/Novas-Sky/Novas-Sky/blob/main/f44c9c2b36cf4de23c2b75a7eb5cb0b2.jpg?raw=true))
+![Logo](https://raw.githubusercontent.com/Novas-Sky/Novas-Sky/main/f44c9c2b36cf4de23c2b75a7eb5cb0b2.jpg =200x200)
 </dev>
